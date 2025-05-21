@@ -1,5 +1,7 @@
 export * from './configs/pino.config';
 
+export * from './decorators/request-headers.decorator';
+
 export * from './dtos/params/pagintation.param.dto';
 export * from './dtos/responses/pagination.response.dto';
 
